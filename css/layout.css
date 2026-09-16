@@ -50,6 +50,34 @@
   flex-direction: column;
   width: 800px;
   padding: 0%;
+  gap: 20px;
+}
+
+main section {
+  margin-bottom: 40px;
+}
+
+.sideOmSide {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+.hoejreKolonne {
+  margin-left: 10px;
+}
+
+.venstreKolonne img,
+.hoejreKolonne img {
+  width: 500px;
+}
+
+.windows_img img {
+  width: 330px;
+  height: 300px;
+  display: block;
+  margin: 0 auto;
 }
 grid_1-1-1 {
   display: grid;
