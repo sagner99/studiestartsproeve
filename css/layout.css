@@ -48,7 +48,7 @@
   display: grid;
   grid-template-columns: 5fr 3fr;
   flex-direction: column;
-  width: 500px;
+  width: 800px;
   padding: 0%;
 }
 grid_1-1-1 {
